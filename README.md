@@ -9,4 +9,6 @@ git clone https://github.com/Bagnoli95/ml-clasificacion-vinos.git
 cd ml-clasificacion-vinos
 ```
 
-# Abrir el archivo clasificacion_vinos.ipynb
+# Como ejecutar el código:
+- Abrir el archivo clasificacion_vinos.ipynb
+- Ejecutar el secuencialmente los bloques de código
